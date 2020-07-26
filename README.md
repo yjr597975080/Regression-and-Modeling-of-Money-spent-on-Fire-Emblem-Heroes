@@ -1,6 +1,6 @@
 # Regression-and-Modeling-of-Money-spent-on-Fire-Emblem-Heroes
 ## Introduction:
-&#8194 With technology and mass media taking the forefront of our daily lives, we as consumers
+> With technology and mass media taking the forefront of our daily lives, we as consumers
 spend more and more time with our personal devices. From reading work emails to trying out the
 latest fads, the smartphone has become integral to our daily lives, providing us with a means of
 communication as well as a source of entertainment. One such source of entertainment comes
