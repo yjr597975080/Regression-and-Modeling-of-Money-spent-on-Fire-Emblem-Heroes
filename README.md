@@ -1,6 +1,14 @@
 # Regression-and-Modeling-of-Money-spent-on-Fire-Emblem-Heroes
+## Abstract: 
+Video gaming, like other forms of modern entertainment, is an industry aiming to profit.
+Many modern video games take up a business model known as the freemium model that is free to
+access but has paid features. We want to find out what factors go into how gamers spend their
+money; utilizing model building diagnostics like the BIC, we fit and build a model using data from a
+fan-made survey on the Fire Emblem: Heroes subreddit to see what factors goes into how much
+players spend on a single video game.
+
 ## Introduction:
-&nbsp;&nbsp;&nbsp; With technology and mass media taking the forefront of our daily lives, we as consumers
+With technology and mass media taking the forefront of our daily lives, we as consumers
 spend more and more time with our personal devices. From reading work emails to trying out the
 latest fads, the smartphone has become integral to our daily lives, providing us with a means of
 communication as well as a source of entertainment. One such source of entertainment comes
